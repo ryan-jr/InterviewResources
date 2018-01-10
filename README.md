@@ -43,6 +43,10 @@ https://medium.freecodecamp.org/coding-interviews-for-dummies-5e048933b82b
 
 https://www.programcreek.com/2012/11/top-10-algorithms-for-coding-interview/
 
+https://medium.freecodecamp.org/choosing-a-developer-job-some-advice-a64c60b795a4
+
+https://medium.freecodecamp.org/we-analyzed-thousands-of-coding-interviews-heres-what-we-learned-99384b1fda50
+
 ***
 
 
@@ -51,6 +55,8 @@ https://www.programcreek.com/2012/11/top-10-algorithms-for-coding-interview/
 https://www.youtube.com/watch?v=O6nFJzW-SDg
 
 https://www.twitch.tv/videos/92529587
+
+https://www.youtube.com/watch?v=51gc7-eskU8
 
 ***
 
