@@ -72,3 +72,5 @@ https://www.youtube.com/watch?v=51gc7-eskU8
 ### Good Github repos to check/skim/go over
 
 https://github.com/jwasham/coding-interview-university
+
+https://github.com/mandliya/algorithms_and_data_structures
